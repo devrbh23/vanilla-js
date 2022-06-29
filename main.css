@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+.image {
+    text-align: center;
+}
+
+.campus {
+    color: red;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    border: solid;
+}
+
+#faculty {
+    border: solid;
+
+}
+
+
+
+
+
+.name {
+    color: red;
+    border: solid;
+    margin-bottom: 2px;
+    display: flex;
+}
